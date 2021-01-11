@@ -1,0 +1,37 @@
+_repo: The-Tale-of-the-Argonauts_64235
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Way, Arthur S. (Arthur Sanders)
+    alias: Way, Arthur Sanders
+    birthdate: 1847
+    deathdate: 1930
+    gutenberg_agent_id: '340'
+    url: http://www.gutenberg.org/2009/agents/340
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Way
+creator:
+  author:
+    agent_name: Apollonius, Rhodius
+    aliases:
+    - Apollonius, of Rhodes
+    - Rhodius, Apollonius
+    gutenberg_agent_id: '433'
+    url: http://www.gutenberg.org/2009/agents/433
+    wikipedia: https://en.wikipedia.org/wiki/Apollonius_of_Rhodes
+  editor:
+    agent_name: Gollancz, Israel
+    gutenberg_agent_id: '52809'
+    url: http://www.gutenberg.org/2009/agents/52809
+description: ''
+gutenberg_issued: '2021-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Tale of the Argonauts
+url: http://www.gutenberg.org/ebooks/64235
