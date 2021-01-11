@@ -1,5 +1,5 @@
 _repo: The-Tale-of-the-Argonauts_64235
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Way, Arthur S. (Arthur Sanders)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '340'
     url: http://www.gutenberg.org/2009/agents/340
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Way
+covers:
+- cover_type: archival
+  image_path: 64235-h/images/cover.jpg
 creator:
   author:
     agent_name: Apollonius, Rhodius
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '52809'
     url: http://www.gutenberg.org/2009/agents/52809
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64235#The-Tale-of-the-Argonauts
 gutenberg_issued: '2021-01-08'
 gutenberg_type: Text
 identifiers:
